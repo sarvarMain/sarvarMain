@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sarvar</h1>
-<h3 align="center">A junior python developer</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarvar
+===============================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvarmain&label=Profile%20views&color=0e75b6&style=flat" alt="sarvarmain" /> </p>
+A 16-years old developer from Uzbekistan
+----------------------------------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvarmain" alt="sarvarmain" /></a> </p>
+I started my training a year ago. I took a Python course and became interested in cybersecurity
 
-- 🌱 I’m currently learning **Cybersecurity and Software engineering**
+* 🌍  I'm based in Uzbekistan.
+* ✉️  You can contact me at [sarvarmamutov@gmail.com](mailto:sarvarmamutov@gmail.com)
+* 🧠  I'm currently learning CyberSecurity and Software Engineering.
+* 💬  Ask me about I use arch btw
 
-- 📫 How to reach me **sarvarmamutov22@gmail.com**
-
-- ⚡ Fun fact **I play chess**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sarvarmain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarvarmain" height="30" width="40" /></a>
-<a href="https://instagram.com/orvilxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="orvilxx" height="30" width="40" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Socials
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvarmain&show_icons=true&locale=en&layout=compact" alt="sarvarmain" /></p>
+<p align="left"> <a href="https://www.github.com/sarvarmain" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+### Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvarmain&show_icons=true&locale=en" alt="sarvarmain" /></p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sarvarmain"><img src="https://github-readme-stats.vercel.app/api?username=sarvarmain&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="sarvarmain's GitHub stats" /></a>
+
+<a href="https://github.com/sarvarmain" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarmain&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
